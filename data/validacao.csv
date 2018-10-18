@@ -1,0 +1,4 @@
+make,fuel_type,aspiration,number_of_doors,body_style,drive_wheels,engine_location,wheel_base,length,width,height,curb_weight,engine_type,number_of_cylinders,engine_size,fuel_system,bore,stroke,compression_ratio,horsepower,peak_rpm,city_mpg,highway_mpg
+audi,gas,turbo,two,sedan,fwd,front,105.8,192.7,71.4,55.9,2667,ohc,twelve,149,mpfi,3.13,3.4,8.3,180,5500,17,20
+mercedes-benz,diesel,turbo,four,wagon,rwd,front,110,190.9,70.3,58.7,3347,ohc,five,210,idi,3.58,3.64,21.5,150,4350,22,25
+nissan,gas,std,four,sedan,fwd,front,94.5,165.3,63.8,54.5,1544,ohc,four,80,2bbl,3.15,3.29,9.4,61,5200,31,37
